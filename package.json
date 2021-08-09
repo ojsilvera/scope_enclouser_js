@@ -1,0 +1,19 @@
+{
+  "name": "scope_enclouser_js",
+  "version": "1.0.0",
+  "description": "curso sobre enclouser y scopes en js con Oscar Barajas en platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojsilvera/scope_enclouser_js.git"
+  },
+  "author": "ojsilvera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojsilvera/scope_enclouser_js/issues"
+  },
+  "homepage": "https://github.com/ojsilvera/scope_enclouser_js#readme"
+}
